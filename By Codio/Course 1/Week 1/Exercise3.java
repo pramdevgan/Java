@@ -6,7 +6,9 @@ public class Exercise3 {
         
         //add code below this line
         System.out.println(line1);
-        System.out.println(line2);    
+        System.out.println(line2);
+    
+        
         //add code above this line
     }
 }
